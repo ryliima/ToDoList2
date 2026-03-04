@@ -2,7 +2,7 @@ package com.List.ToDo.controller;
 
 import com.List.ToDo.dto.TarefaDto;
 import com.List.ToDo.entities.Tarefa;
-import com.List.ToDo.service.TarefaServic;
+import com.List.ToDo.service.TarefaService;
 import com.List.ToDo.service.TarefaService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
